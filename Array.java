@@ -11,5 +11,6 @@ public class Array {
     int n=LocalDateTime.now().minusYears(age).getYear();
     System.out.println(n);
     sc.close();
+    
   }
 }
