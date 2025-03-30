@@ -9,5 +9,6 @@ public class Calculatehourminsec {
     int minutes = hours * 60;
     int seconds = minutes * 60;
     System.out.println(+hours+" hr "+minutes+" min "+seconds+" sec ");
+    sc.close();
   }
 }

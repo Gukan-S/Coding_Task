@@ -6,8 +6,9 @@ public class Factorial {
     System.out.print("the factorial ");
     int n=sc.nextInt();
     int fact=1;
-    for(int i=1;i<=n;i++){
+    for(int i=n;i>=1;i--){
       fact*=i;
+      
     }
     System.out.println("the factorail of" +n+ "is:"+fact);
     sc.close();
