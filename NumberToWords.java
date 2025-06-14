@@ -9,7 +9,8 @@ class NumberToWords
 	        return;
         }
         int temp = num;
-         String arr[] ={ "Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven","Eight", "Nine" };
+        ArrayList < String > list = new ArrayList < String > ();
+        String arr[] ={ "Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven","Eight", "Nine" };
         while (temp != 0)
         {
     	    list.add (arr[temp % 10]);

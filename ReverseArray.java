@@ -10,7 +10,7 @@ public class ReverseArray {
     int start=0;
     int end=num.length-1;
 
-    while (start<end) {
+    while (start<=end) {
      Swap(num, start, end);
      start++;
      end--;
