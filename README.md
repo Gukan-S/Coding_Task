@@ -1,4 +1,5 @@
-# Coding_Task
+git commit -m "Update README.md"# Coding_Task
+
 # 📚 Daily Java Learning
 
 Welcome to my **Daily Java Learning** repository!  
@@ -6,6 +7,3 @@ This repo is my personal journey of mastering Java — covering **practice probl
 I update it regularly with my daily progress, notes, and code.
 
 ---
-
-
-
