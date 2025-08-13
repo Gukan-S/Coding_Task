@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug Pattern1",
+      "request": "launch",
+      "mainClass": "Pattern1",
+      "cwd": "D:\\java\\Coding_Task\\patterns",
+      "classPaths": ["D:\\java\\Coding_Task\\patterns"]
+    }
+  ]
+}
