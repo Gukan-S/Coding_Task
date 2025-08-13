@@ -1,5 +1,3 @@
-git commit -m "Update README.md"# Coding_Task
-
 # 📚 Daily Java Learning
 
 Welcome to my **Daily Java Learning** repository!  
