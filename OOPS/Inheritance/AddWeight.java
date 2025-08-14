@@ -6,6 +6,9 @@ public class AddWeight extends Bo {// the extends keyword use to get the properi
     public AddWeight(int weight) {
         this.weight = weight;
     }
+    static void Greetings(){
+        System.out.println("Welocme");
+    }
 
     public AddWeight(int w, int h, int l, int weight) {
         super(w, h, l);// call the parent class constructor it is used intialise the value present in the parent class

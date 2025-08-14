@@ -9,4 +9,5 @@ public class Inheritance {
     }
     // the child class can access the properties of the parent class ex:this.l=l;
     //but the parent class cannot access the child class properties ex:this.weight=weight;
+    set.Greetings();
 }

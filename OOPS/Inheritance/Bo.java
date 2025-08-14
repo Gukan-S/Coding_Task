@@ -6,7 +6,9 @@ public class Bo {
     private int l;
 
 //here any of the properties is mentioned as a private only used in this file but using super keyword we can access the variable in another file also
-
+static void Greetings(){
+    System.out.println("Welocme");
+}
 
      Bo() {
         this.w = -1;
